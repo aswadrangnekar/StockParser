@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Copyright 2011 Aswad Rangnekar <aswad.r@gmail.com>
-# Copyright 2012 Google, Inc.
+# Copyright 2013 Aswad Rangnekar <aswad.r@gmail.com>
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
